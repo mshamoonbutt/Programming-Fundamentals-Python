@@ -1,4 +1,4 @@
-# Programming Fundamentals Codes Repository Using Python
+# Programming Fundamentals Codes Repository Using Python 👨🏻‍💻
 Welcome to my first semester practice codes repository! This repository contains various Python assignments, labs, and quizzes that I worked on during my first semester. Whether you're just starting to learn Python or diving into programming fundamentals, you'll find valuable resources here to enhance your understanding.
 
 # Contents
