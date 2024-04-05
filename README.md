@@ -1,4 +1,4 @@
-# First Semester Practice Codes Repository
+# Programming Fundamentals Codes Repository Using Python
 Welcome to my first semester practice codes repository! This repository contains various Python assignments, labs, and quizzes that I worked on during my first semester. Whether you're just starting to learn Python or diving into programming fundamentals, you'll find valuable resources here to enhance your understanding.
 
 # Contents
@@ -20,7 +20,7 @@ Feel free to explore the contents of this repository at your own pace. Here's ho
 
 1. **Clone the Repository:**
   ```
-  git clone https://github.com/your-username/first-semester-practice-codes.git
+  git clone https://github.com/your-username/programming-fundamentals-python.git
   ```
 
 2. **Navigate to Specific Directories:**
