@@ -38,6 +38,6 @@ Feel free to explore the contents of this repository at your own pace. Here's ho
 If you find any errors, have suggestions for improvement, or want to contribute additional practice exercises, feel free to open an issue or submit a pull request. Contributions are welcome and appreciated!
 
 # License
-This repository is licensed under the [MIT License]().
+This repository is licensed under the [MIT License](LICENSE).
 
 Follow for more..........
